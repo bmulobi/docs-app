@@ -1,0 +1,23 @@
+.container {
+  height: 100%;
+}
+
+.link {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.block {
+  display: block;
+  padding: 0;
+}
+
+.center {
+  text-align: center;
+}
+
+.nf-image {
+  margin-top: 20px;
+  min-height: 300px;
+  background: url('../images/notFound.jpg') repeat-x;
+}
